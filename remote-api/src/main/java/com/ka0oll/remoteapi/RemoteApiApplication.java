@@ -1,13 +1,13 @@
-package com.ka0oll.delayweb;
+package com.ka0oll.remoteapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DelayWebApplication {
+public class RemoteApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DelayWebApplication.class, args);
+        SpringApplication.run(RemoteApiApplication.class, args);
     }
 
 }

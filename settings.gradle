@@ -1,4 +1,4 @@
 rootProject.name = "reactive"
 
 include "spring-mvc"
-include "delay-web"
+include "remote-api"
