@@ -1,4 +1,5 @@
 rootProject.name = "reactive"
 
 include "spring-mvc"
+include "spring-reactive"
 include "remote-api"
